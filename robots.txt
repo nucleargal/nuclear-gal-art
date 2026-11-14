@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nucleargal.github.io/nuclear-gal-art/sitemap.xml

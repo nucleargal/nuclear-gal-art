@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "nuclear-gal",
+    "description": "",
+    "home_page_url": "https://nucleargal.github.io/nuclear-gal-art",
+    "feed_url": "https://nucleargal.github.io/nuclear-gal-art/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ayla"
+    },
+    "items": [
+    ]
+}
